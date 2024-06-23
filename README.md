@@ -17,19 +17,19 @@
 ## Install
 
 ```sh
-todo
+npm install
 ```
 
 ## Usage
 
 ```sh
-todo
+npm start
 ```
 
 ## Run tests
 
 ```sh
-todo
+npm test
 ```
 
 ## Author
@@ -39,7 +39,7 @@ todo
 * Website: todo
 * Twitter: [@todo](https://twitter.com/todo)
 * Github: [@WeipengHu111](https://github.com/WeipengHu111)
-* LinkedIn: [@todo](https://linkedin.com/in/todo)
+* LinkedIn: [@WeipengHu](www.linkedin.com/in/weipenghupharrell)
 
 ## 🤝 Contributing
 
